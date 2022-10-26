@@ -68,10 +68,6 @@ while(playAgain == true)
         RandomGen4();
     }
 
-
-
-
-
     do
     {
         gameLoop = true;
