@@ -1,15 +1,30 @@
-C:\Users\sauls\Documents\CS Academy\Level1\RestaurantPicker\RestaurantPicker\bin\Debug\net6.0\RestaurantPicker.exe
-C:\Users\sauls\Documents\CS Academy\Level1\RestaurantPicker\RestaurantPicker\bin\Debug\net6.0\RestaurantPicker.deps.json
-C:\Users\sauls\Documents\CS Academy\Level1\RestaurantPicker\RestaurantPicker\bin\Debug\net6.0\RestaurantPicker.runtimeconfig.json
-C:\Users\sauls\Documents\CS Academy\Level1\RestaurantPicker\RestaurantPicker\bin\Debug\net6.0\RestaurantPicker.dll
-C:\Users\sauls\Documents\CS Academy\Level1\RestaurantPicker\RestaurantPicker\bin\Debug\net6.0\RestaurantPicker.pdb
-C:\Users\sauls\Documents\CS Academy\Level1\RestaurantPicker\RestaurantPicker\obj\Debug\net6.0\RestaurantPicker.csproj.AssemblyReference.cache
-C:\Users\sauls\Documents\CS Academy\Level1\RestaurantPicker\RestaurantPicker\obj\Debug\net6.0\RestaurantPicker.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\sauls\Documents\CS Academy\Level1\RestaurantPicker\RestaurantPicker\obj\Debug\net6.0\RestaurantPicker.AssemblyInfoInputs.cache
-C:\Users\sauls\Documents\CS Academy\Level1\RestaurantPicker\RestaurantPicker\obj\Debug\net6.0\RestaurantPicker.AssemblyInfo.cs
-C:\Users\sauls\Documents\CS Academy\Level1\RestaurantPicker\RestaurantPicker\obj\Debug\net6.0\RestaurantPicker.csproj.CoreCompileInputs.cache
-C:\Users\sauls\Documents\CS Academy\Level1\RestaurantPicker\RestaurantPicker\obj\Debug\net6.0\RestaurantPicker.dll
-C:\Users\sauls\Documents\CS Academy\Level1\RestaurantPicker\RestaurantPicker\obj\Debug\net6.0\refint\RestaurantPicker.dll
-C:\Users\sauls\Documents\CS Academy\Level1\RestaurantPicker\RestaurantPicker\obj\Debug\net6.0\RestaurantPicker.pdb
-C:\Users\sauls\Documents\CS Academy\Level1\RestaurantPicker\RestaurantPicker\obj\Debug\net6.0\RestaurantPicker.genruntimeconfig.cache
-C:\Users\sauls\Documents\CS Academy\Level1\RestaurantPicker\RestaurantPicker\obj\Debug\net6.0\ref\RestaurantPicker.dll
+C:/Users/sauls/Documents/CS Academy/Level1/RestaurantPicker/RestaurantPicker/bin/Debug/net6.0/RestaurantPicker.exe
+C:/Users/sauls/Documents/CS Academy/Level1/RestaurantPicker/RestaurantPicker/bin/Debug/net6.0/RestaurantPicker.deps.json
+C:/Users/sauls/Documents/CS Academy/Level1/RestaurantPicker/RestaurantPicker/bin/Debug/net6.0/RestaurantPicker.runtimeconfig.json
+C:/Users/sauls/Documents/CS Academy/Level1/RestaurantPicker/RestaurantPicker/bin/Debug/net6.0/RestaurantPicker.dll
+C:/Users/sauls/Documents/CS Academy/Level1/RestaurantPicker/RestaurantPicker/bin/Debug/net6.0/RestaurantPicker.pdb
+C:/Users/sauls/Documents/CS Academy/Level1/RestaurantPicker/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.csproj.AssemblyReference.cache
+C:/Users/sauls/Documents/CS Academy/Level1/RestaurantPicker/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/sauls/Documents/CS Academy/Level1/RestaurantPicker/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.AssemblyInfoInputs.cache
+C:/Users/sauls/Documents/CS Academy/Level1/RestaurantPicker/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.AssemblyInfo.cs
+C:/Users/sauls/Documents/CS Academy/Level1/RestaurantPicker/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.csproj.CoreCompileInputs.cache
+C:/Users/sauls/Documents/CS Academy/Level1/RestaurantPicker/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.dll
+C:/Users/sauls/Documents/CS Academy/Level1/RestaurantPicker/RestaurantPicker/obj/Debug/net6.0/refint/RestaurantPicker.dll
+C:/Users/sauls/Documents/CS Academy/Level1/RestaurantPicker/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.pdb
+C:/Users/sauls/Documents/CS Academy/Level1/RestaurantPicker/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.genruntimeconfig.cache
+C:/Users/sauls/Documents/CS Academy/Level1/RestaurantPicker/RestaurantPicker/obj/Debug/net6.0/ref/RestaurantPicker.dll
+/Users/michellemalfabon/Desktop/RestaurantPicker/bin/Debug/net6.0/RestaurantPicker
+/Users/michellemalfabon/Desktop/RestaurantPicker/bin/Debug/net6.0/RestaurantPicker.deps.json
+/Users/michellemalfabon/Desktop/RestaurantPicker/bin/Debug/net6.0/RestaurantPicker.runtimeconfig.json
+/Users/michellemalfabon/Desktop/RestaurantPicker/bin/Debug/net6.0/RestaurantPicker.dll
+/Users/michellemalfabon/Desktop/RestaurantPicker/bin/Debug/net6.0/RestaurantPicker.pdb
+/Users/michellemalfabon/Desktop/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.csproj.AssemblyReference.cache
+/Users/michellemalfabon/Desktop/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michellemalfabon/Desktop/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.AssemblyInfoInputs.cache
+/Users/michellemalfabon/Desktop/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.AssemblyInfo.cs
+/Users/michellemalfabon/Desktop/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.csproj.CoreCompileInputs.cache
+/Users/michellemalfabon/Desktop/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.dll
+/Users/michellemalfabon/Desktop/RestaurantPicker/obj/Debug/net6.0/refint/RestaurantPicker.dll
+/Users/michellemalfabon/Desktop/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.pdb
+/Users/michellemalfabon/Desktop/RestaurantPicker/obj/Debug/net6.0/RestaurantPicker.genruntimeconfig.cache
+/Users/michellemalfabon/Desktop/RestaurantPicker/obj/Debug/net6.0/ref/RestaurantPicker.dll

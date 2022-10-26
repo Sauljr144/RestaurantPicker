@@ -1,5 +1,5 @@
 # Restaurant Picker
 #
-Peer Reviewed by:
+Peer Reviewed by: Michelle M. 
 #
-Comments:
+Comments: Working, great job!
